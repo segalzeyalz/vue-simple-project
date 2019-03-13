@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vue/cli-init": "^3.5.1"
+  }
+}
