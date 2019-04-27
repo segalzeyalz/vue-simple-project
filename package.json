@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@vue/cli-init": "^3.5.1",
-    "vue-router": "^3.0.6"
-  }
-}
